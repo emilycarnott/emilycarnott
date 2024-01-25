@@ -2,7 +2,6 @@ Hello! Welcome to my portfolio :)
 
 <b>Major Marketing Projects</b><br>
 (lead design, wrote all copy + backend logic)<br>
-<a href="url">link text</a><br>
 <a href="https://www.blameless.com/reliability-assessment-tool">Reliability Assessment Tool</a><br>
 <a href="https://www.blameless.com/incident-impact-calculator">Incident Impact Calculator</a><br>
 <a href="https://www.blameless.com/time-spent-incident-tracking">Time Spent on Incidents Infographic</a><br>
