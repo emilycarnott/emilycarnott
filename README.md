@@ -14,8 +14,13 @@ Hello! Welcome to my portfolio :)
 <a href="https://youtu.be/sSq91ZDw3Ec">Survival Guide: Black Swan Events with Jake Englund at Chaos Carnival 2022</a><br>
 <a href="https://youtu.be/6qBMikBwZ70">Too many people in the room? with Nick Mason at Conf42 Incident Management 2022</a><br>
 
-
-
+<b>Blog Posts and Other Writing</b><br>
+<a href="https://www.blameless.com/ebook/bridging-the-gap-devops-to-sre">eBook: "Bridging the Gap: DevOps to SRE"</a> <a href="https://fs.hubspotusercontent00.net/hubfs/5408306/Collateral%20Assets/Blameless%20Bridging%20the%20Gap%20DevOps%20to%20SRE%20eBook.pdf">(Direct link to pdf)</a><br>
+<a href="https://www.blameless.com/ebook/preventing-burnout-with-reliability-practices">eBook: "Preventing Burnout with Reliability Practices"</a> <a href="https://5408306.fs1.hubspotusercontent-na1.net/hubfs/5408306/Blameless_ebook_-_Preventing_Burnout_with_Reliability_Practices.pdf">(Direct link to pdf)</a><br>
+eBook: The Complete Guide to Incident Management <a href="https://www.blameless.com/ebook/the-blameless-complete-guide-to-incident-management-part-1">Part One</a> <a href="https://5408306.fs1.hubspotusercontent-na1.net/hubfs/5408306/complete-guide-to-incident-management-part-1_22EB09.pdf">(Direct link to pdf)</a> and <a href="https://www.blameless.com/ebook/the-blameless-complete-guide-to-incident-management-part-2">Part Two</a> <a href="https://5408306.fs1.hubspotusercontent-na1.net/hubfs/5408306/complete-guide-to-incident-management-part-2_22EB09.pdf">(Direct link to pdf)</a><br>
+<a href="https://thenewstack.io/a-new-definition-of-reliability/">Blog post: A New Definition of Reliability for The New Stack (ghostwritten)</a><br>
+<a href="https://www.blameless.com/blog/the-importance-of-reliability-engineering">Blog post: The Importance of Reliability Engineering</a><br>
+<a href="https://www.blameless.com/blog/how-to-write-meaningful-retrospectives">Blog post: How to Write Meaningful Retrospectives</a><br>
 
 <!--
 **emilycarnott/emilycarnott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
